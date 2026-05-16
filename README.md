@@ -1,1 +1,1 @@
-# MyMyAssignments
+# MyAssignments
